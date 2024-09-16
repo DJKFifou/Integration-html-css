@@ -6,13 +6,13 @@
     font-family: 'Poppins', sans-serif;
 }
 
-main {
-    padding-bottom: 7rem;
-}
-
 header, main {
     background-color: #F9F9F9;
     padding: 0 5.25rem;
+}
+
+main {
+    padding-bottom: 7rem;
 }
 
 /* HEADER */
